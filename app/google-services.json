@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "990289259108",
+    "firebase_url": "https://my-project-1550658175369.firebaseio.com",
+    "project_id": "my-project-1550658175369",
+    "storage_bucket": "my-project-1550658175369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990289259108:android:13b65fbcddc748f6",
+        "android_client_info": {
+          "package_name": "com.sundeep.androidnearbyplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990289259108-vqvgn2g6ccqs42e2prch7h1816amou1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6nKEmY93NxJec58FIH7FG37hF0QBHF80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
